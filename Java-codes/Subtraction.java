@@ -1,12 +1,12 @@
 public class Subtraction{
-    public static void main(Strings[] args)
+    public static void main(String[] args)
 {	   
-	   int a=5;
-	   int b=6;
+	   int a = 5;
+	   int b = 6;
 	    
-	   int c = a+b;
+	   int c = a - b;
 		
 		
-	   System.out.println("Addition = " + c);
+	   System.out.println("Subtraction = " + c);
 	}
 }
